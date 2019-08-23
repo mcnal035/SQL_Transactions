@@ -1,0 +1,26 @@
+.Header {
+  text-align: center;
+  background-color: lightblue;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+}
+
+.Header h1 {
+  margin: 0;
+}
+
+.Nav {
+  text-align: right;
+}
+.Nav-Link {
+  text-decoration: none;
+  color: black;
+  margin-right: 1rem;
+}
+
+.Main {
+  padding: 0.5rem;
+  max-width: 800px;
+  width: 100%;
+  margin: auto;
+}
